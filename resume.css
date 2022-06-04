@@ -1,0 +1,74 @@
+#img{
+	height: 60vh;
+	background-image: url(laptop-336378_1920.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 0%;
+	background-attachment:fixed;  
+}
+#li{
+	list-style: none;
+	padding: 0px;
+	text-align: center;
+	
+}
+#li li{
+	display: inline-block;
+	margin:0px 17px 17px 0px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{color: red;
+	border-bottom: 10px solid white;
+
+}
+h1{
+	padding: 0px;
+	text-align: center;
+	color:  lightblue;
+	font-size: 50px;
+}
+#as{
+	height: 240px;
+	width:240px;
+ background-image: url(profile.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ margin: auto;
+ margin-top:-55px; 
+  border-radius: 200px;
+  top: 390px; 
+box-shadow: -3px -2px 5px 6px white;
+}
+#z{
+	font-family: cursive;
+	font-size: 25px;
+	text-align: center;
+	padding: 17%;
+	margin:auto;
+    margin-top: -205px;
+	color: black;
+
+}
+#lii{
+	list-style: none;
+	padding: 0px;
+	text-align: center;
+}
+#lii li{
+	display: inline-block;
+	margin:0px 17px 17px 0px;
+}
+#z1{
+    
+        font-family: cursive;
+        font-size: 25px;
+        margin:auto;
+       
+        color: black;
+    
+    
+}
